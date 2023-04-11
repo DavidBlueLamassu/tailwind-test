@@ -1,2 +1,2 @@
 # tailwind-test
-Test deployment of a webpage styles with Tailwind
+Test deployment of a webpage styled with Tailwind
